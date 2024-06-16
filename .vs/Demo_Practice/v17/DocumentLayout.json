@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|c:\\users\\2000123711\\onedrive - hexaware technologies\\desktop\\repos\\demo_practice\\demo_practice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|solutionrelative:demo_practice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|c:\\users\\2000123711\\onedrive - hexaware technologies\\desktop\\repos\\demo_practice\\demo_practice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|solutionrelative:demo_practice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|c:\\users\\2000123711\\onedrive - hexaware technologies\\desktop\\repos\\demo_practice\\demo_practice\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|solutionrelative:demo_practice\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|c:\\users\\2000123711\\onedrive - hexaware technologies\\desktop\\repos\\demo_practice\\demo_practice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|solutionrelative:demo_practice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|c:\\users\\2000123711\\onedrive - hexaware technologies\\desktop\\repos\\demo_practice\\demo_practice\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9035EF-162B-4D9B-B811-90863FECC4B4}|Demo_Practice\\Demo_Practice.csproj|solutionrelative:demo_practice\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Demo_Practice\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Demo_Practice\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAwwHEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:59:18.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Demo_Practice\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Demo_Practice\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAZmZmZmYEwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:57:18.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Demo_Practice\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Demo_Practice\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:56:41.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Demo_Practice\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Services\\UserService.cs",
+              "RelativeToolTip": "Demo_Practice\\Services\\UserService.cs",
+              "ViewState": "AQIAACMAAACAy8zMzMwkwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:50:28.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Demo_Practice\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\2000123711\\OneDrive - Hexaware Technologies\\Desktop\\repos\\Demo_Practice\\Demo_Practice\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Demo_Practice\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:49:20.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
